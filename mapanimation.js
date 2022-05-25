@@ -1,4 +1,3 @@
-<script>
 
     token = '//your token here//'
     
@@ -89,4 +88,3 @@
     
     window.onload = init;
     
-    </script>
